@@ -13,6 +13,7 @@ import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 public class ChromeFireboxCrossBrowser {
+	//this ok 
 	WebDriver driver;
 	// browser setup
 	@Parameters("browser")
